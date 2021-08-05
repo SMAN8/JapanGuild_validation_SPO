@@ -1,0 +1,8 @@
+{
+"name":"SMAN8#3172",
+"ticker":"SA8",
+"discordId":"760123160107941908",
+"pool-list":"true",
+"poolMetaData":"https://raw.githubusercontent.com/SMAN8/Guild_Japon/main/poolMetaData.json",
+"validation":"https://raw.githubusercontent.com/SMAN8/JapanGuild_validation_SPO/main/sig-validation.json"
+}
